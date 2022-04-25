@@ -9,7 +9,7 @@ d0r-k Google Hacking Dork Scraping and Searching Script. d0r-k is a script I mad
 * [+] pip3 install -r requirements.txt
 
 
-# Dorks Eye Usage Linux
+# D0r-k Usage Linux
 
 * [+] python3 D0r!k.py
 
